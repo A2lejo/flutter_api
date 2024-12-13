@@ -18,6 +18,7 @@ Se crean servicios para el consumo de las API's
 
 ## Pantalla
 Se crea esta pantalla para mostrar la infromación esto luego se pasa a main
+
 ![image](https://github.com/user-attachments/assets/151e2443-6a9a-4263-8536-3962e5307776)
 
 
